@@ -41,8 +41,8 @@ I am building the bridge between mind and machine.
 
 📫 Contact
 
-GitHub: @YOUR_USERNAME
-Email: your@email.com
+GitHub: @eegG0D
+
 
 Portfolio: Coming soon
 Research Lab: In development
