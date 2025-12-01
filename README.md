@@ -15,10 +15,15 @@ Frameworks & Tools
 🚀 Signature Projects
 Project	Description
 🧿 Neural Oracle	Real-time EEG + AI reflection engine
+
 🧠 Mind-to-Text Engine	EEG → semantic language pipeline
+
 🌌 Brain-Controlled VR Spaces	Thought-responsive VR environments
+
 ⚡ Cognitive Accelerator	Attention & focus amplification system
+
 📊 GitHub Stats (Live)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="46%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="46%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/> </p>
 📡 System Architecture (Concept)
 [ EEG / TGAM Sensor ]
