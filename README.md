@@ -14,6 +14,8 @@ Frameworks & Tools
 <p align="center"> <img src="https://img.shields.io/badge/WPF-.NET-1f2937?style=for-the-badge&logo=windows"/> <img src="https://img.shields.io/badge/Unity-1f2937?style=for-the-badge&logo=unity"/> <img src="https://img.shields.io/badge/Android-1f2937?style=for-the-badge&logo=android"/> <img src="https://img.shields.io/badge/OpenAI_API-1f2937?style=for-the-badge&logo=openai"/> <img src="https://img.shields.io/badge/Bluetooth-1f2937?style=for-the-badge&logo=bluetooth"/> </p>
 🚀 Signature Projects
 Project	Description
+
+
 🧿 Neural Oracle	Real-time EEG + AI reflection engine
 
 🧠 Mind-to-Text Engine	EEG → semantic language pipeline
@@ -58,11 +60,5 @@ Use this in DALL·E / Midjourney / Leonardo / Adobe Firefly:
 
 A futuristic brain-computer interface scene, a glowing human brain connected to a holographic neural network, flowing digital streams forming a virtual city in space, deep purple and blue color palette, ultra-detailed, cyberpunk + sci-fi + neuroscience aesthetic, 4K, cinematic lighting
 
-Export as: 1280 x 320
-Name it: banner.png
-Upload to your repo and place here:
-
-![Banner](./banner.png)
-
 🔥 Optional: Add a Live Counter
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D28D9&style=flat"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=eegG0D&label=Profile%20Views&color=6D28D9&style=flat"/></p>
