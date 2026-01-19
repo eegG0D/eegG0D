@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm eegG0D 👋
 
 ### Developer | Experimenter | Visionary
 *> Working on the frontier where brain activity, artificial intelligence, and software meet.*
@@ -42,14 +42,12 @@ My projects often involve:
 
 ### 📂 Featured Concepts
 
-- **[Project Name e.g., NeuraForge]**: A self-evolving brain–computer interface that maps raw signals into concept clusters.
-- **[Project Name]**: Real-time visualization of mental states (Focus, Calm, Anxiety) using C# and WPF.
-- **[Project Name]**: AI-driven interpretation of EEG data streams.
+- **[Project Name: NeuroGeometry**: The application connects to a background driver to read your brain's electrical signals via a local network socket, instantly translating your focus and relaxation levels into game mechanics and geometric visualizations.
 
 ---
 
 <div align="center">
   <p><i>"The interface of the future is not controlled by words, but by meaning, emotion, and focus."</i></p>
   
-  [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com) • [Email](mailto:youremail@example.com)
+  [LinkedIn]https://www.linkedin.com/in/ervin-zenelaj/) • [website](https://eegg0d.com) • [Email](mailto:rtbom.acc@outlook.com)
 </div>
