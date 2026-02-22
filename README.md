@@ -1,4 +1,4 @@
-# Hi there, I'm eegG0D 👋
+# This is eegG0D 👋
 
 ### Developer | Experimenter | Visionary
 *> Working on the frontier where brain activity, artificial intelligence, and software meet.*
