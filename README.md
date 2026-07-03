@@ -49,5 +49,5 @@ My projects often involve:
 <div align="center">
   <p><i>"The interface of the future is not controlled by words, but by meaning, emotion, and focus."</i></p>
   
-  [LinkedIn](https://www.linkedin.com/in/ervin-zenelaj/) • [website](https://eegg0d.com) • [Email](mailto:rtbom.acc@outlook.com)
+  [LinkedIn](https://www.linkedin.com/in/ervin-zenelaj/) • [website](https://eegg0d.com) • [Email](mailto:ervin.zenelaj@live.com)
 </div>
